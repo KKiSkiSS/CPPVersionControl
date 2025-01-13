@@ -2,7 +2,8 @@
 
 void greet()
 {
-	std::cout << "Hello World\n";
+	std::cout << "Hello World";
+	std::cout << "goodbye!";
 }
 int main()
 {
